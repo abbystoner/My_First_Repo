@@ -61,8 +61,3 @@
   </section>
 </body>
 </html>
-"name": "Launch Chrome",
-            "request": "launch",
-            "type": "chrome",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
